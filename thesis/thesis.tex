@@ -8,7 +8,7 @@
 % Do not generate the document, do syntax check only.
 %\syntaxonly
 % Bibliography files.
-\addbibresource{b.bib}
+\addbibresource{r.bib}
 
 % Title page info.
 \input{titlepageinfo.tex}
@@ -42,10 +42,10 @@
 \include{chapters/conclusion}
 
 % Bibliography.
-%\begingroup
-%\RaggedRight
-%\printbibliography[heading=bibintoc]
-%\endgroup
+\begingroup
+\RaggedRight
+\printbibliography[heading=bibintoc]
+\endgroup
 
 
 
@@ -56,6 +56,6 @@
 %\include{appendices/source_code_listings}
 %\end{appendices}
 
-\printbibliography
+%\printbibliography
 
 \end{document}

@@ -6,12 +6,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Современное состояние исследований в области эмоциональных вычислений.}{6}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Эмоциональные состояния на уровне нейробиологических процессов.}{9}{chapter.2}
+\contentsline {chapter}{\numberline {2}Эмоциональные состояния на уровне нейробиологических процессов.}{8}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Реализация норадреналиновой системы}{15}{chapter.3}
+\contentsline {chapter}{\numberline {3}Реализация норадреналиновой системы}{14}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Интеграция норадреналиновой системы с серотониновой и дофаминовой системами.}{25}{chapter.4}
+\contentsline {chapter}{\numberline {4}Интеграция норадреналиновой системы с серотониновой и дофаминовой системами.}{24}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Симуляция базовых эмоций в трёхмерной модели}{33}{chapter.5}
+\contentsline {chapter}{\numberline {5}Симуляция базовых эмоций в трёхмерной модели}{32}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Заключение}{35}{section*.18}
+\contentsline {chapter}{Заключение}{34}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Список литературы}{36}{chapter*.20}

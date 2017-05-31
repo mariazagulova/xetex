@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2017.5.17)  24 MAY 2017 15:05
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2017.5.17)  30 MAY 2017 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1593,69 +1593,22 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 
 (./chapters/introduction.tex
-
-LaTeX Warning: Citation 'small' on page 3 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'big' on page 3 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'intelligent_machinery' on page 3 undefined on input li
-ne 6.
-
-
-LaTeX Warning: Citation 'minsky2007' on page 3 undefined on input line 6.
-
-
-Overfull \hbox (28.44499pt too wide) in paragraph at lines 6--7
-\EU1/TimesNewRoman(0)/m/n/14.4 обучаться подобно ребёнку, писал А. Тьюринг. [[]
- ]  [[] ]  [[]
+Overfull \hbox (3.19362pt too wide) in paragraph at lines 12--13
+\EU1/TimesNewRoman(0)/m/n/14.4 туальных потребностей.[[]8[]] Эмоции контролирую
+т внутреннее психологическое
  []
 
 
-LaTeX Warning: Citation 'plutchik2001' on page 3 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Brosch' on page 3 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'ziemke-role' on page 3 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'damasio2004' on page 3 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'damasio2008' on page 3 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'whoneedsemotions' on page 3 undefined on input line 12
-.
-
-
-LaTeX Warning: Citation 'roleofemotions' on page 3 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Phelps2006' on page 3 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'affectivecomputing' on page 3 undefined on input line 
-12.
-
-
-Overfull \hbox (85.62685pt too wide) in paragraph at lines 12--13
-\EU1/TimesNewRoman(0)/m/n/14.4 нее психологическое состояние, почти всегда упра
-вляют принятием решений.[[]
+Overfull \hbox (13.04456pt too wide) in paragraph at lines 12--13
+\EU1/TimesNewRoman(0)/m/n/14.4 эмоций это необходимый шаг для понимания человеч
+еского сознания. Во-вторых,
  []
 
 
-Overfull \hbox (14.03705pt too wide) in paragraph at lines 12--13
-\EU1/TimesNewRoman(0)/m/n/14.4 восприятием, механизмы сознания и эмоций связаны
- на всех уровнях.[[]
+Overfull \hbox (5.21759pt too wide) in paragraph at lines 15--16
+\EU1/TimesNewRoman(0)/m/n/14.4 Высшей школы ИТИС, где разрабатывается когнитивн
+ая архитектура NeuCogAr
  []
-
-
-LaTeX Warning: Citation 'affectivecomputingchallenges' on page 3 undefined on i
-nput line 15.
 
 [3
 
@@ -1667,135 +1620,36 @@ Overfull \hbox (0.30573pt too wide) in paragraph at lines 22--23
 ятора норадреналин на
  []
 
-[4]) [5]
+) [4] [5]
 \openout2 = `chapters/literature_review.aux'.
 
  (./chapters/literature_review.tex
 Глава 1.
-
-LaTeX Warning: Citation 'erica' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'meetpepper' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Breazeal2003' on page 6 undefined on input line 6.
-
-
-Overfull \hbox (63.98125pt too wide) in paragraph at lines 6--7
-\EU1/TimesNewRoman(0)/m/n/14.4 ции, эмоции как реакция на то, достигнуты ли цел
-и и стремления организма.[[]
- []
-
-
-LaTeX Warning: Citation 'plutchik2001' on page 6 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'hourglass' on page 6 undefined on input line 9.
-
 [6
 
 
 
-]
-
-LaTeX Warning: Citation 'aaai1' on page 7 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'aaai2' on page 7 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'aaai3' on page 7 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'aaai4' on page 7 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'aaai5' on page 7 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'aaai6' on page 7 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'ziemkeflexibility' on page 7 undefined on input line 1
-5.
-
-
-LaTeX Warning: Citation 'moralrobots' on page 7 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'moralemo' on page 7 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'militaryrobotics' on page 7 undefined on input line 18
-.
-
-) [7] [8]
+]) [7]
 \openout2 = `chapters/theoretical_development.aux'.
 
  (./chapters/theoretical_development.tex
 Глава 2.
-
-LaTeX Warning: Citation 'lovheim2012' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'tomkins1962' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'tomkins1963' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'tomkins1991' on page 9 undefined on input line 7.
-
-
-Overfull \hbox (75.60509pt too wide) in paragraph at lines 7--8
-\EU1/TimesNewRoman(0)/m/n/14.4 нейробиологически, берутся из психологической мо
-дели Сильвана Томкинса.[[];
- []
-
 File: figures/cube_0.png Graphic file (type QTm)
-<use  "figures/cube_0.png" >
-
-LaTeX Warning: Citation 'Benarroch17112009' on page 9 undefined on input line 1
-8.
-
-
-Overfull \hbox (0.2288pt too wide) in paragraph at lines 18--19
-\EU1/TimesNewRoman(0)/m/n/14.4 ронами. Системы названных моноаминовых нейромеди
-аторов эволюционно со-
- []
-
-
-Overfull \hbox (34.58704pt too wide) in paragraph at lines 18--19
-\EU1/TimesNewRoman(0)/m/n/14.4 окружающей среде, сами по себе также являются ди
-намичными.[[]
- []
-
-[9
+<use  "figures/cube_0.png" > [8
 
 
 
-] [10]
-
-LaTeX Warning: Citation 'parsingreward' on page 11 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'zarrindast' on page 11 undefined on input line 21.
-
-
+] [9]
 Overfull \hbox (0.8716pt too wide) in paragraph at lines 21--22
 []\EU1/TimesNewRoman(0)/m/n/14.4 Нейронная активность может модифицироваться и 
 перенастраиваться, ко-
  []
 
-[11]
+[10]
 Overfull \hbox (4.20505pt too wide) in paragraph at lines 27--28
 \EU1/TimesNewRoman(0)/m/n/14.4 лин, или норэпинефрин. Уровень его концентрации 
 повышается в ответ на стрес-
  []
-
-
-LaTeX Warning: Citation 'talanov2014' on page 12 undefined on input line 36.
 
 
 Overfull \hbox (11.35646pt too wide) in paragraph at lines 36--38
@@ -1803,14 +1657,25 @@ Overfull \hbox (11.35646pt too wide) in paragraph at lines 36--38
 й процесс должно быть
  []
 
-[12]
-Overfull \hbox (14.0385pt too wide) in paragraph at lines 40--41
-\EU1/TimesNewRoman(0)/m/n/14.4 скольку дофамин сильно влияет на мотивацию, ????
-???????????????????????. 
+[11]
+Overfull \hbox (9.5593pt too wide) in paragraph at lines 39--40
+[]\EU1/TimesNewRoman(0)/m/n/14.4 регулируется норадреналином. Чем выше уровень
+ []
+
+
+Overfull \hbox (0.78389pt too wide) in paragraph at lines 39--40
+\EU1/TimesNewRoman(0)/m/n/14.4 трировано на действии. Это соответствует переклю
+чению внимания в моз-
+ []
+
+
+Overfull \hbox (1.48265pt too wide) in paragraph at lines 41--42
+[]\EU1/TimesNewRoman(0)/m/n/14.4 испытывает воздействие серотонина и дофамина. 
+На-
  []
 
 File: figures/cube_1.png Graphic file (type QTm)
-<use  "figures/cube_1.png" >) [13] [14]
+<use  "figures/cube_1.png" >) [12] [13]
 \openout2 = `chapters/specification.aux'.
 
  (./chapters/specification.tex
@@ -1822,27 +1687,12 @@ Overfull \hbox (0.79784pt too wide) in paragraph at lines 3--4
  []
 
 
-LaTeX Warning: Citation 'noradrenalin3' on page 15 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'masuko' on page 15 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'rat_data5' on page 15 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'Berridge2003' on page 15 undefined on input line 5.
-
-
-Overfull \hbox (3.57323pt too wide) in paragraph at lines 5--6
-\EU1/TimesNewRoman(0)/m/n/14.4 периферийной нервной системой (мобилизует органи
-зм к действию) и централь-
+Overfull \hbox (2.5493pt too wide) in paragraph at lines 11--12
+\EU1/TimesNewRoman(0)/m/n/14.4 лись наградой. Исследуя механизм вырабатываемого
+ рефлекса, неясно, как мозг
  []
 
-
-LaTeX Warning: Citation 'izhikevich' on page 15 undefined on input line 11.
-
-[15
+[14
 
 
 
@@ -1853,60 +1703,27 @@ Overfull \hbox (5.72292pt too wide) in paragraph at lines 14--15
  []
 
 File: figures/izhikevich.png Graphic file (type QTm)
-<use  "figures/izhikevich.png" >
-
-LaTeX Warning: Citation 'izhikevich' on page 16 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'izhikevich' on page 16 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'tactile' on page 16 undefined on input line 28.
-
-[16] [17]
-
-LaTeX Warning: Citation 'stdp' on page 18 undefined on input line 50.
-
-
-LaTeX Warning: Citation 'nora1' on page 18 undefined on input line 61.
-
-
-LaTeX Warning: Citation 'nora2' on page 18 undefined on input line 61.
-
-
+<use  "figures/izhikevich.png" > [15] [16]
 Overfull \hbox (1.41722pt too wide) in paragraph at lines 72--73
 \EU1/TimesNewRoman(0)/m/n/14.4 пропорционально относительной концентрации норад
 реналина $[]\OML/cmm/m/it/14.4 n[]$ \EU1/TimesNewRoman(0)/m/n/14.4 по сравнению
 
  []
 
-[18]
+[17]
 File: figures/BIG_matlab_NA_with_NOV.png Graphic file (type QTm)
- <use  "figures/BIG_matlab_NA_with_NOV.png" >
-
-LaTeX Warning: Reference `matlab_NA' on page 19 undefined on input line 95.
-
-[19]
-
-LaTeX Warning: Citation 'viljoen' on page 20 undefined on input line 100.
-
-
-LaTeX Warning: Citation 'delaneytransmission' on page 20 undefined on input lin
-e 100.
-
-
-LaTeX Warning: Citation 'macaca' on page 20 undefined on input line 100.
-
+ <use  "figures/BIG_matlab_NA_with_NOV.png" > [18]
 File: figures/spikes_250.png Graphic file (type QTm)
+
 <use  "figures/spikes_250.png" >
-File: figures/voltage_250.png Graphic file (type QTm)
- <use  "figures/voltage_250.png" >
+File: figures/nora_dynamic_250.png Graphic file (type QTm)
+ <use  "figures/nora_dynamic_250.png" >
 File: figures/w_dynamic_250_with_nora.png Graphic file (type QTm)
 
 <use  "figures/w_dynamic_250_with_nora.png" >
 File: figures/w_dynamic_250.png Graphic file (type QTm)
 
-<use  "figures/w_dynamic_250.png" >) [20] [21] [22] [23] [24]
+<use  "figures/w_dynamic_250.png" >) [19] [20] [21] [22] [23]
 \openout2 = `chapters/implementation.aux'.
 
 
@@ -1926,11 +1743,11 @@ Overfull \hbox (57.43759pt too wide) in paragraph at lines 13--15
  []
 
 File: figures/dopa.png Graphic file (type QTm)
-<use  "figures/dopa.png" > [25
+<use  "figures/dopa.png" > [24
 
 
 
-] [26] [27]
+] [25] [26]
 File: figures/sero600voltage.png Graphic file (type QTm)
  <use  "figures/sero600voltage.png" >
 File: figures/sero600onNA.png Graphic file (type QTm)
@@ -1938,15 +1755,15 @@ File: figures/sero600onNA.png Graphic file (type QTm)
 <use  "figures/sero600onNA.png" >
 File: figures/sero600onsynapse.png Graphic file (type QTm)
  <use  "figures/sero600onsynapse.png" >
-[28] [29] [30] [31]
+[27] [28] [29] [30]
 File: figures/bad_amygdala.png Graphic file (type QTm)
- <use  "figures/bad_amygdala.png" >) [32]
+ <use  "figures/bad_amygdala.png" >) [31]
 \openout2 = `chapters/results.aux'.
 
 
 (./chapters/results.tex
 Глава 5.
-[33
+[32
 
 
 
@@ -1956,7 +1773,7 @@ Overfull \hbox (62.31358pt too wide) in paragraph at lines 25--39
 рного тракта, ядрах paragigantocellular,
  []
 
-[34]
+[33]
 \openout2 = `chapters/conclusion.aux'.
 
  (./chapters/conclusion.tex
@@ -1971,7 +1788,7 @@ Overfull \hbox (3.04698pt too wide) in paragraph at lines 22--23
 . Neuromodulating cognitive
  []
 
-[35
+[34
 
 
 
@@ -1982,39 +1799,195 @@ Overfull \hbox (12.36572pt too wide) in paragraph at lines 23--24
 uCogAr Cognitive Architecture»
  []
 
-) [36]
+) [35]
+Overfull \hbox (24.48174pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Minsky M. \EU1/TimesNewRoman(0)/m/n/14.4 The 
+Emotion Machine: Commonsense Thinking, Artificial Intelligence, 
+ []
 
-LaTeX Warning: Empty bibliography on input line 59.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `CourierNew' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
+Overfull \hbox (9.47221pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/n/14.4 The impact of emotion on perception, attention
+, memory, and decision-making / 
+ []
+
+
+Overfull \hbox (3.17932pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 T. Brosch [и др.] [] Swiss Medical Weekly. — 201
+3. — Т. 143. — w13786. — 
+ []
+
+
+Overfull \hbox (22.72627pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Ziemke T.\EU1/TimesNewRoman(0)/m/n/14.4 , \EU
+1/TimesNewRoman(0)/m/it/14.4 Lowe R. \EU1/TimesNewRoman(0)/m/n/14.4 On the Role
+ of Emotion in Embodied Cognitive Architectures: 
+ []
+
+
+Overfull \hbox (34.08502pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Descartes’ Error: Emotion, Reason, and the Hum
+an Brain / под ред. A. Damasio. — 
+ []
+
+
+Overfull \hbox (36.32457pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Phelps E. A. \EU1/TimesNewRoman(0)/m/n/14.4 E
+motion and cognition: insights from studies of the human amygdala. [] 
+ []
+
+[36
+
+
+]
+Overfull \hbox (45.32094pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Guizzo E. \EU1/TimesNewRoman(0)/m/n/14.4 Meet
+ Pepper, Aldebaran’s new personal robot with an “EmotionEngine”. — 
+ []
+
+
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+
+Overfull \hbox (42.53659pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 A. Chella I. I. \EU1/TimesNewRoman(0)/m/n/14.
+4 Emotions in a Cognitive Architecture for Human Robot Interactions. — 
+ []
+
+
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+
+Overfull \hbox (11.86768pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Martinovska C. \EU1/TimesNewRoman(0)/m/n/14.4
+ Agent-Based Emotional Architecture for Directing the Adaptive 
+ []
+
+
+Overfull \hbox (19.51385pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 Approach [] Computational and Ambient Intelligen
+ce. Lecture Notes in Computer 
+ []
+
+
+Overfull \hbox (4.36768pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 R. C. Arkin P. Ulam A. R. W. \EU1/TimesNewRom
+an(0)/m/n/14.4 Moral Decision Making in Autonomous Systems: 
+ []
+
+[37]
+Overfull \hbox (15.95506pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 P. Lin G. Bekey K. A. \EU1/TimesNewRoman(0)/m
+/n/14.4 Autonomous Military Robotics: Risk, Ethics, and Design [] 
+ []
+
+
+Overfull \hbox (34.80249pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 2. — С. 341—8. — ISSN 1532-2777. — URL: []$[][][
+][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [][] 
+ []
+
+
+Overfull \hbox (32.67314pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Benarroch E. E. \EU1/TimesNewRoman(0)/m/n/14.
+4 The locus ceruleus norepinephrine system: Functional organization 
+ []
+
+
+Overfull \hbox (1.77647pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Berridge K. C.\EU1/TimesNewRoman(0)/m/n/14.4 
+, \EU1/TimesNewRoman(0)/m/it/14.4 Robinson T. E. \EU1/TimesNewRoman(0)/m/n/14.4
+ Parsing Reward. [] Trends in Neurosciences. — 
+ []
+
+
+Overfull \hbox (67.90894pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Talanov M.\EU1/TimesNewRoman(0)/m/n/14.4 , \E
+U1/TimesNewRoman(0)/m/it/14.4 Toschev A. \EU1/TimesNewRoman(0)/m/n/14.4 Computa
+tional emotional thinking and virtual neurotransmitters [] 
+ []
+
+[38]
+Overfull \hbox (39.78737pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 Cell Culture: Culture Methods, Morphology, and E
+lectrophysiology [] J. Neurosci. — 
+ []
+
+
+Overfull \hbox (11.88055pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 Tactile Robot Using Dopamine Modulated STDP in a
+ Model of Insular Cortex [] 
+ []
+
+
+Overfull \hbox (0.76538pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Lisman J.\EU1/TimesNewRoman(0)/m/n/14.4 , \EU
+1/TimesNewRoman(0)/m/it/14.4 Spruston N. \EU1/TimesNewRoman(0)/m/n/14.4 Questio
+ns about STDP as a General Model of Synaptic 
+ []
+
+
+Overfull \hbox (18.41948pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 Slices of the Rat [] Brain research. — 1980. — М
+ай. — Т. 189, № 2. — С. 437— 
+ []
+
+
+Overfull \hbox (26.69655pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 Simultaneous Measurements of Plasma Noradrenalin
+e and Dihydroxyphenylglycol 
+ []
+
+
+Overfull \hbox (27.94264pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 (DOPEG). / J. Ludwig [и др.] [] Journal of Neura
+l Transmission Supplementum. — 
+ []
+
+[39]
 No complaints by nag.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
+[40]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
-(./thesis.aux (./chapters/introduction.aux) (./chapters/literature_review.aux)
-(./chapters/theoretical_development.aux) (./chapters/specification.aux)
-(./chapters/implementation.aux) (./chapters/results.aux)
-(./chapters/conclusion.aux))
+ (./thesis.aux (./chapters/introduction.aux)
+(./chapters/literature_review.aux) (./chapters/theoretical_development.aux)
+(./chapters/specification.aux) (./chapters/implementation.aux)
+(./chapters/results.aux) (./chapters/conclusion.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 61.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 61.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                thesis
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34417 strings out of 493727
- 622372 string characters out of 6147890
- 1189625 words of memory out of 5000000
- 37244 multiletter control sequences out of 15000+600000
- 6807 words of font info for 52 fonts, out of 8000000 for 9000
+ 34499 strings out of 493727
+ 624147 string characters out of 6147890
+ 1190099 words of memory out of 5000000
+ 37321 multiletter control sequences out of 15000+600000
+ 6823 words of font info for 54 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 64i,11n,94p,10450b,1373s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,11n,94p,10450b,3060s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (36 pages).
+Output written on thesis.pdf (40 pages).
