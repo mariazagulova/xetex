@@ -8,12 +8,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Эмоциональные состояния на уровне нейробиологических процессов.}{8}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Реализация норадреналиновой системы}{14}{chapter.3}
+\contentsline {chapter}{\numberline {3}Реализация норадреналиновой системы}{13}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Интеграция норадреналиновой системы с серотониновой и дофаминовой системами.}{24}{chapter.4}
+\contentsline {chapter}{\numberline {4}Интеграция норадреналиновой системы с серотониновой и дофаминовой системами.}{21}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Симуляция базовых эмоций в трёхмерной модели}{32}{chapter.5}
+\contentsline {chapter}{\numberline {5}Симуляция базовых эмоций в трёхмерной модели}{28}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Заключение}{34}{section*.18}
+\contentsline {chapter}{Заключение}{35}{section*.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Список литературы}{36}{chapter*.20}
+\contentsline {chapter}{Список литературы}{37}{chapter*.31}
