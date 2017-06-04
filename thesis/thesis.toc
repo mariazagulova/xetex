@@ -10,10 +10,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Реализация норадреналиновой системы}{13}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Интеграция норадреналиновой системы с серотониновой и дофаминовой системами.}{21}{chapter.4}
+\contentsline {chapter}{\numberline {4}Интеграция норадреналиновой системы с серотониновой и дофаминовой системами.}{20}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Симуляция базовых эмоций в трёхмерной модели}{28}{chapter.5}
+\contentsline {chapter}{\numberline {5}Симуляция базовых эмоций в трёхмерной модели}{27}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Заключение}{35}{section*.29}
+\contentsline {chapter}{Заключение}{36}{section*.28}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Список литературы}{37}{chapter*.31}
+\contentsline {chapter}{Список литературы}{38}{chapter*.30}
