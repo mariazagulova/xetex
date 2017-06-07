@@ -1,0 +1,14 @@
+[0] Config.pm:321> INFO - This is Biber 1.9
+[0] Config.pm:324> INFO - Logfile is 'thesis.blg'
+[37] biber:277> INFO - === Ð¡Ð± Ð¼Ð°Ð¹ 27, 2017, 16:49:54
+[37] Biber.pm:334> INFO - Reading 'thesis.bcf'
+[151] Biber.pm:636> INFO - Found 46 citekeys in bib section 0
+[172] Biber.pm:3052> INFO - Processing section 0
+[194] Biber.pm:3190> INFO - Looking for bibtex format file 'r.bib' for section 0
+[224] bibtex.pm:979> INFO - Decoding LaTeX character macros into UTF-8
+[256] bibtex.pm:853> INFO - Found BibTeX data source 'r.bib'
+[797] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[797] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[798] Biber.pm:2929> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'ru-RU'
+[958] bbl.pm:517> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[964] bbl.pm:606> INFO - Output to thesis.bbl

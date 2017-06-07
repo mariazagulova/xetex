@@ -1,0 +1,931 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{intelligent_machinery}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=fe9de2d9b090778cfe5ccc6010788edd}{Turing}{T\bibinitperiod}{A.M.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=fe9de2d9b090778cfe5ccc6010788edd}{Turing}{T\bibinitperiod}{A.M.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5ce2934f6d316a2b100c3b69f593e4c9}{Copeland}{C\bibinitperiod}{B.J.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford: Clarendon, 2004}%
+      }
+      \strng{namehash}{fe9de2d9b090778cfe5ccc6010788edd}
+      \strng{fullhash}{fe9de2d9b090778cfe5ccc6010788edd}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Intelligent Machinery}
+      \field{booktitle}{The Essential Turing: the ideas that gave birth to the Computer Age.}
+      \field{title}{Intelligent Machinery}
+      \field{year}{1948}
+      \field{pages}{411}
+    \endentry
+    \entry{minsky2007}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=657554cb1f914c65293c977e8df0817a}{Minsky}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=657554cb1f914c65293c977e8df0817a}{Minsky}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
+      }
+      \strng{namehash}{657554cb1f914c65293c977e8df0817a}
+      \strng{fullhash}{657554cb1f914c65293c977e8df0817a}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind}}
+      \field{title}{{The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind}}
+      \field{year}{2007}
+    \endentry
+    \entry{plutchik2001}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=050935e4cfedc32e862f19fc78769796}{Plutchik}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=050935e4cfedc32e862f19fc78769796}{Plutchik}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{050935e4cfedc32e862f19fc78769796}
+      \strng{fullhash}{050935e4cfedc32e862f19fc78769796}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The Nature of Emotions}
+      \field{journaltitle}{American Scientist}
+      \field{title}{The Nature of Emotions}
+      \field{volume}{89(4)}
+      \field{year}{2001}
+      \field{pages}{344\bibrangedash 350}
+    \endentry
+    \entry{Brosch}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=74a023da026c468b7108a1beee3fa425}{Brosch}{B\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=0b257e043cb1fa570fbd7376c4150820}{Scherer}{S\bibinitperiod}{K\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=01dd84d3b646e7ecc2a4a710c971fa76}{Grandjean}{G\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=355bab96156438997b3e13007f0a5c01}{Sander}{S\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The impact of emotion on perception, attention, memory, and decision-making}
+      \field{journaltitle}{Swiss Medical Weekly}
+      \field{title}{The impact of emotion on perception, attention, memory, and decision-making}
+      \field{volume}{143}
+      \field{year}{2013}
+      \field{pages}{w13786}
+      \verb{doi}
+      \verb 10.4414/smw.2013.13786
+      \endverb
+    \endentry
+    \entry{ziemke-role}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6d27e74f6b9b887c2785dca22300ee60}{Ziemke}{Z\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4a4130d7ce851d7d86a80871eef21d2d}{Lowe}{L\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6d27e74f6b9b887c2785dca22300ee60}{Ziemke}{Z\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4a4130d7ce851d7d86a80871eef21d2d}{Lowe}{L\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{df9b109d7383df1ef5bcf67c952e1469}
+      \strng{fullhash}{df9b109d7383df1ef5bcf67c952e1469}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{On the Role of Emotion in Embodied Cognitive Architectures: From Organisms to Robots}
+      \field{journaltitle}{Cogn Comput}
+      \field{title}{On the Role of Emotion in Embodied Cognitive Architectures: From Organisms to Robots}
+      \field{volume}{1018}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 104}
+    \endentry
+    \entry{damasio2008}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ca344f1d334b745a9c521b7e3bb9d78d}{Damasio}{D\bibinitperiod}{Antonio}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ca344f1d334b745a9c521b7e3bb9d78d}{Damasio}{D\bibinitperiod}{Antonio}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Random House}%
+      }
+      \strng{namehash}{ca344f1d334b745a9c521b7e3bb9d78d}
+      \strng{fullhash}{ca344f1d334b745a9c521b7e3bb9d78d}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Descartes' Error: Emotion, Reason and the Human Brain}
+      \field{title}{Descartes' Error: Emotion, Reason and the Human Brain}
+      \field{year}{2008}
+    \endentry
+    \entry{damasio1994}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=146b777e756b562382d82507e793e36a}{Damasio}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Descartes' Error: Emotion, Reason, and the Human Brain}
+      \field{month}{01}
+      \field{title}{Descartes' Error: Emotion, Reason, and the Human Brain}
+      \field{year}{1994}
+    \endentry
+    \entry{whoneedsemotions}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=009670a7218f335f02f7347c80b78bb2}{Michael\bibnamedelimb A.\bibnamedelimi Arbib}{M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}{Jean-Marc\bibnamedelima Fellous}{J\bibinithyphendelim M\bibinitperiod\bibinitdelim F\bibinitperiod}{and}{a\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=009670a7218f335f02f7347c80b78bb2}{Michael\bibnamedelimb A.\bibnamedelimi Arbib}{M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}{Jean-Marc\bibnamedelima Fellous}{J\bibinithyphendelim M\bibinitperiod\bibinitdelim F\bibinitperiod}{and}{a\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{009670a7218f335f02f7347c80b78bb2}
+      \strng{fullhash}{009670a7218f335f02f7347c80b78bb2}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Who Needs Emotions? The brain meets the robot}
+      \field{title}{Who Needs Emotions? The brain meets the robot}
+      \field{year}{2005}
+      \field{pages}{60\bibrangedash 76}
+    \endentry
+    \entry{roleofemotions}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=0e659bf9d19e31a14a0bb24f7ab7c451}{Hyungil}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=66a1fc65fc017b0a53f3f564e6a82867}{Picard}{P\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0e659bf9d19e31a14a0bb24f7ab7c451}{Hyungil}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=66a1fc65fc017b0a53f3f564e6a82867}{Picard}{P\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f721b285d4a2c0f42bd16d27919e0c46}
+      \strng{fullhash}{f721b285d4a2c0f42bd16d27919e0c46}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Affective Cognitive Learning and Decision Making: The Role of Emotions}}
+      \field{booktitle}{The 18th European Meeting on Cybernetics and Systems Research (EMCSR 2006)}
+      \field{title}{{Affective Cognitive Learning and Decision Making: The Role of Emotions}}
+      \field{year}{2006}
+    \endentry
+    \entry{Phelps2006}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1e8b68ecb0a8f1bc4d33077bccc4c2cb}{Phelps}{P\bibinitperiod}{Elizabeth\bibnamedelima A}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1e8b68ecb0a8f1bc4d33077bccc4c2cb}{Phelps}{P\bibinitperiod}{Elizabeth\bibnamedelima A}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1e8b68ecb0a8f1bc4d33077bccc4c2cb}
+      \strng{fullhash}{1e8b68ecb0a8f1bc4d33077bccc4c2cb}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Emotion and cognition: insights from studies of the human amygdala.}}
+      \field{abstract}{Traditional approaches to the study of cognition emphasize an information-processing view that has generally excluded emotion. In contrast, the recent emergence of cognitive neuroscience as an inspiration for understanding human cognition has highlighted its interaction with emotion. This review explores insights into the relations between emotion and cognition that have resulted from studies of the human amygdala. Five topics are explored: emotional learning, emotion and memory, emotion's influence on attention and perception, processing emotion in social stimuli, and changing emotional responses. Investigations into the neural systems underlying human behavior demonstrate that the mechanisms of emotion and cognition are intertwined from early perception to reasoning. These findings suggest that the classic division between the study of emotion and cognition may be unrealistic and that an understanding of human cognition requires the consideration of emotion.}
+      \field{issn}{0066-4308}
+      \field{journaltitle}{Annual review of psychology}
+      \field{title}{{Emotion and cognition: insights from studies of the human amygdala.}}
+      \field{volume}{57}
+      \field{year}{2006}
+      \field{pages}{27\bibrangedash 53}
+      \verb{doi}
+      \verb 10.1146/annurev.psych.56.091103.070234
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/16318588
+      \endverb
+    \endentry
+    \entry{affectivecomputing}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=96d6c25109c4c9fd337bb3a41b63a5aa}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W.}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=96d6c25109c4c9fd337bb3a41b63a5aa}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W.}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {M.I.T Media Laboratory Perceptual Computing Section}%
+      }
+      \strng{namehash}{96d6c25109c4c9fd337bb3a41b63a5aa}
+      \strng{fullhash}{96d6c25109c4c9fd337bb3a41b63a5aa}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Affective Computing}}
+      \field{title}{{Affective Computing}}
+      \field{year}{1995}
+    \endentry
+    \entry{affectivecomputingchallenges}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=96d6c25109c4c9fd337bb3a41b63a5aa}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W.}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=96d6c25109c4c9fd337bb3a41b63a5aa}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W.}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{96d6c25109c4c9fd337bb3a41b63a5aa}
+      \strng{fullhash}{96d6c25109c4c9fd337bb3a41b63a5aa}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Affective Computing: Challenges}
+      \field{journaltitle}{International Journal of Human-Computer Studies}
+      \field{title}{Affective Computing: Challenges}
+      \field{volume}{59}
+      \field{year}{2003}
+      \field{pages}{55\bibrangedash 64}
+    \endentry
+    \entry{erica}{inproceedings}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=ef3eb4b9b15060afab52f9e85b3aa35f}{Ishiguro}{I\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=482b6f067ad9923a532a1c2363f63e5b}{Glas}{G\bibinitperiod}{D.\bibnamedelimi F.}{D\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=ccafb90f5b54db1cf3e84fa2a590e633}{Minato}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbcf499688d1364509ef138c1aae98f}{Ishi}{I\bibinitperiod}{C.\bibnamedelimi T.}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=e1fae1624ad5470dd61636d3c9263b71}{Kawahara}{K\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Richland, SC}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{ERICA: The ERATO Intelligent Conversational Android}
+      \field{booktitle}{Proceedings of the 25th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)}
+      \field{title}{ERICA: The ERATO Intelligent Conversational Android}
+      \field{year}{2016}
+      \field{pages}{22\bibrangedash 29}
+    \endentry
+    \entry{meetpepper}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=61b4e9d3f5844e92c3931062372eb581}{Guizzo}{G\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=61b4e9d3f5844e92c3931062372eb581}{Guizzo}{G\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{61b4e9d3f5844e92c3931062372eb581}
+      \strng{fullhash}{61b4e9d3f5844e92c3931062372eb581}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Meet Pepper, Aldebaran's new personal robot with an “EmotionEngine”}
+      \field{journaltitle}{IEEE Spectrum}
+      \field{title}{Meet Pepper, Aldebaran's new personal robot with an “EmotionEngine”}
+      \field{volume}{1018}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 2}
+    \endentry
+    \entry{Breazeal2003}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3e669d3ed6039d251fbfbf2f27a2a1f5}{Breazeal}{B\bibinitperiod}{Cynthia}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3e669d3ed6039d251fbfbf2f27a2a1f5}{Breazeal}{B\bibinitperiod}{Cynthia}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3e669d3ed6039d251fbfbf2f27a2a1f5}
+      \strng{fullhash}{3e669d3ed6039d251fbfbf2f27a2a1f5}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Emotion and sociable humanoid robots}}
+      \field{issn}{10715819}
+      \field{journaltitle}{International Journal of Human-Computer Studies}
+      \field{number}{1-2}
+      \field{title}{{Emotion and sociable humanoid robots}}
+      \field{volume}{59}
+      \field{year}{2003}
+      \field{pages}{119\bibrangedash 155}
+      \verb{doi}
+      \verb 10.1016/S1071-5819(03)00018-1
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S1071581903000181
+      \endverb
+      \keyw{emotion,expression,human,robot interaction,sociable humanoid robots}
+    \endentry
+    \entry{hourglass}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=db089768b8819956d932b3c8db18d498}{Cambria}{C\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f9aab3f07c52a9084619a58385b679}{Livingstone}{L\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ad3729a7efea6d2ab38e43640ab6f27}{Hussain}{H\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=db089768b8819956d932b3c8db18d498}{Cambria}{C\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f9aab3f07c52a9084619a58385b679}{Livingstone}{L\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8ad3729a7efea6d2ab38e43640ab6f27}{Hussain}{H\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{78620bbb95ef5fa3fd21fcc968856771}
+      \strng{fullhash}{78620bbb95ef5fa3fd21fcc968856771}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Cognitive Behavioural Systems}
+      \field{chapter}{The Hourglass of Emotions}
+      \field{title}{Cognitive Behavioural Systems}
+      \field{year}{2012}
+      \field{pages}{144\bibrangedash 157}
+    \endentry
+    \entry{aaai1}{inprocceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=63bad53c722738a19b374b02e3cd329d}{Licurgo\bibnamedelimb B.\bibnamedelimi de\bibnamedelima Almeida}{L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod}{Ana\bibnamedelimb L.\bibnamedelimi C.\bibnamedelimi Bazzan}{A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{Bruno\bibnamedelimb C.\bibnamedelimi da\bibnamedelima Silva}{B\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=63bad53c722738a19b374b02e3cd329d}{Licurgo\bibnamedelimb B.\bibnamedelimi de\bibnamedelima Almeida}{L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod}{Ana\bibnamedelimb L.\bibnamedelimi C.\bibnamedelimi Bazzan}{A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{Bruno\bibnamedelimb C.\bibnamedelimi da\bibnamedelima Silva}{B\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod}}%
+      }
+      \strng{namehash}{63bad53c722738a19b374b02e3cd329d}
+      \strng{fullhash}{63bad53c722738a19b374b02e3cd329d}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Towards a physiological model of emotions: first steps}
+      \field{booktitle}{Proceedings of the AAAI Spring Symposium on Architectures for Modeling Emotion: Cross-Disciplinary Foundations}
+      \field{title}{Towards a physiological model of emotions: first steps}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 5}
+    \endentry
+    \entry{aaai2}{inprocceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=1c84f7e8db0eb55d7f6d13ca78ca235a}{A.\bibnamedelimi Cami}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{M.\bibnamedelimi Sierhuis}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{C.\bibnamedelimi Lisetti}{C\bibinitperiod\bibinitdelim L\bibinitperiod}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1c84f7e8db0eb55d7f6d13ca78ca235a}{A.\bibnamedelimi Cami}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{M.\bibnamedelimi Sierhuis}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{C.\bibnamedelimi Lisetti}{C\bibinitperiod\bibinitdelim L\bibinitperiod}}%
+      }
+      \strng{namehash}{1c84f7e8db0eb55d7f6d13ca78ca235a}
+      \strng{fullhash}{1c84f7e8db0eb55d7f6d13ca78ca235a}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Towards the Simulation of a Multi-Level Model of Human Emotions}
+      \field{booktitle}{Proceedings of the AAAI Spring Symposium on Architectures for Modeling Emotion: Cross-Disciplinary Foundations}
+      \field{title}{Towards the Simulation of a Multi-Level Model of Human Emotions}
+      \field{year}{2004}
+      \field{pages}{5\bibrangedash 9}
+    \endentry
+    \entry{aaai3}{inprocceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=7f6055f8870d6a37c5fb189d06952515}{A.\bibnamedelimi Chella}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{I.\bibnamedelimi Infantino}{I\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7f6055f8870d6a37c5fb189d06952515}{A.\bibnamedelimi Chella}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{I.\bibnamedelimi Infantino}{I\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7f6055f8870d6a37c5fb189d06952515}
+      \strng{fullhash}{7f6055f8870d6a37c5fb189d06952515}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Emotions in a Cognitive Architecture for Human Robot Interactions}
+      \field{booktitle}{Proceedings of the AAAI Spring Symposium on Architectures for Modeling Emotion: Cross-Disciplinary Foundations}
+      \field{title}{Emotions in a Cognitive Architecture for Human Robot Interactions}
+      \field{year}{2004}
+      \field{pages}{9\bibrangedash 13}
+    \endentry
+    \entry{aaai4}{inprocceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae95c72a843ef66c06f96b5a9b874702}{C.\bibnamedelimi Conati}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{X.\bibnamedelimi Zhou}{X\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae95c72a843ef66c06f96b5a9b874702}{C.\bibnamedelimi Conati}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{X.\bibnamedelimi Zhou}{X\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ae95c72a843ef66c06f96b5a9b874702}
+      \strng{fullhash}{ae95c72a843ef66c06f96b5a9b874702}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{A Probabilistic Framework For Recognizing and Affecting Emotions}
+      \field{booktitle}{Proceedings of the AAAI Spring Symposium on Architectures for Modeling Emotion: Cross-Disciplinary Foundations}
+      \field{title}{A Probabilistic Framework For Recognizing and Affecting Emotions}
+      \field{year}{2004}
+      \field{pages}{13\bibrangedash 17}
+    \endentry
+    \entry{aaai5}{inprocceedings}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=586aa692f24bee6e9fa176bb2e10ae33}{Hernandez}{H\bibinitperiod}{D.\bibnamedelimi J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2b8cdeda5c38e2cafca8fa01cb75084c}{Deniz}{D\bibinitperiod}{O.}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=b5a2d764d95614a000922d5a87d323d4}{Lorenzo}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b710b63cc49aef44ae9305adc13aee5a}{Hernandez}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{BDIE: a BDI like Architecture with Emotional Capabilities}
+      \field{booktitle}{Proceedings of the AAAI Spring Symposium on Architectures for Modeling Emotion: Cross-Disciplinary Foundations}
+      \field{title}{BDIE: a BDI like Architecture with Emotional Capabilities}
+      \field{year}{2004}
+      \field{pages}{60\bibrangedash 68}
+    \endentry
+    \entry{aaai6}{inprocceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=55a03608c82c76cc80750f4bf36fe402}{Martinovska}{M\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=55a03608c82c76cc80750f4bf36fe402}{Martinovska}{M\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{55a03608c82c76cc80750f4bf36fe402}
+      \strng{fullhash}{55a03608c82c76cc80750f4bf36fe402}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Agent-Based Emotional Architecture for Directing the Adaptive Robot Behavior}
+      \field{booktitle}{Proceedings of the AAAI Spring Symposium on Architectures for Modeling Emotion: Cross-Disciplinary Foundations}
+      \field{title}{Agent-Based Emotional Architecture for Directing the Adaptive Robot Behavior}
+      \field{year}{2004}
+      \field{pages}{81\bibrangedash 83}
+    \endentry
+    \entry{ziemkeflexibility}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=320f200b6b752eaf66b153fbf6aef9dc}{Herrera\bibnamedelima C.}{H\bibinitperiod\bibinitdelim C\bibinitperiod}{Ziemke\bibnamedelima T.}{Z\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{Montebelli\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=320f200b6b752eaf66b153fbf6aef9dc}{Herrera\bibnamedelima C.}{H\bibinitperiod\bibinitdelim C\bibinitperiod}{Ziemke\bibnamedelima T.}{Z\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{Montebelli\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}}%
+      }
+      \strng{namehash}{320f200b6b752eaf66b153fbf6aef9dc}
+      \strng{fullhash}{320f200b6b752eaf66b153fbf6aef9dc}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Behavioral Flexibility: An Emotion Based Approach}
+      \field{journaltitle}{Computational and Ambient Intelligence. Lecture Notes in Computer Science}
+      \field{title}{Behavioral Flexibility: An Emotion Based Approach}
+      \field{volume}{4507}
+      \field{year}{2007}
+      \field{pages}{35\bibrangedash 52}
+    \endentry
+    \entry{moralrobots}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=58ce7ca98d373486167bee490adbc187}{R.\bibnamedelimi C.\bibnamedelimi Arkin}{R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{A.\bibnamedelimi R.\bibnamedelimi Wagner}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{P.\bibnamedelimi Ulam}{P\bibinitperiod\bibinitdelim U\bibinitperiod}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=58ce7ca98d373486167bee490adbc187}{R.\bibnamedelimi C.\bibnamedelimi Arkin}{R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{A.\bibnamedelimi R.\bibnamedelimi Wagner}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{P.\bibnamedelimi Ulam}{P\bibinitperiod\bibinitdelim U\bibinitperiod}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{58ce7ca98d373486167bee490adbc187}
+      \strng{fullhash}{58ce7ca98d373486167bee490adbc187}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Moral Decision Making in Autonomous Systems: Enforcement, Moral Emotions, Dignity, Trust, and Deception}
+      \field{booktitle}{Proceedings of the IEEE}
+      \field{title}{Moral Decision Making in Autonomous Systems: Enforcement, Moral Emotions, Dignity, Trust, and Deception}
+      \field{year}{2012}
+      \field{pages}{29\bibrangedash 41}
+    \endentry
+    \entry{moralemo}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=8e7c64eb616b21a2344c5b380205dc1a}{Haidt}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8e7c64eb616b21a2344c5b380205dc1a}{Haidt}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8e7c64eb616b21a2344c5b380205dc1a}
+      \strng{fullhash}{8e7c64eb616b21a2344c5b380205dc1a}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The moral emotions}
+      \field{title}{The moral emotions}
+      \field{year}{2003}
+      \field{pages}{14\bibrangedash 24}
+    \endentry
+    \entry{militaryrobotics}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ea8f5d6cc0dd932ca74a8d726ad330ef}{P.\bibnamedelimi Lin}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{K.\bibnamedelimi Abney}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{G.\bibnamedelimi Bekey}{G\bibinitperiod\bibinitdelim B\bibinitperiod}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ea8f5d6cc0dd932ca74a8d726ad330ef}{P.\bibnamedelimi Lin}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{K.\bibnamedelimi Abney}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{G.\bibnamedelimi Bekey}{G\bibinitperiod\bibinitdelim B\bibinitperiod}}%
+      }
+      \strng{namehash}{ea8f5d6cc0dd932ca74a8d726ad330ef}
+      \strng{fullhash}{ea8f5d6cc0dd932ca74a8d726ad330ef}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Autonomous Military Robotics: Risk, Ethics, and Design}
+      \field{journaltitle}{DTIC Document}
+      \field{title}{Autonomous Military Robotics: Risk, Ethics, and Design}
+      \field{year}{2008}
+      \field{pages}{35\bibrangedash 50}
+    \endentry
+    \entry{lovheim2012}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9676855dca46a6ac6c8c694350dc5a40}{L{ö}vheim}{L\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9676855dca46a6ac6c8c694350dc5a40}{L{ö}vheim}{L\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9676855dca46a6ac6c8c694350dc5a40}
+      \strng{fullhash}{9676855dca46a6ac6c8c694350dc5a40}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{A New Three-Dimensional Model for Emotions and Monoamine Neurotransmitters}}
+      \field{issn}{1532-2777}
+      \field{journaltitle}{Medical Hypotheses}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{{A New Three-Dimensional Model for Emotions and Monoamine Neurotransmitters}}
+      \field{volume}{78}
+      \field{year}{2012}
+      \field{pages}{341\bibrangedash 8}
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0306987711005883
+      \endverb
+    \endentry
+    \entry{tomkins1962}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=04c9359cd55b534805f308e5d63fd2df}{Tomkins}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=04c9359cd55b534805f308e5d63fd2df}{Tomkins}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {New York: Springer Publishing Company}%
+      }
+      \strng{namehash}{04c9359cd55b534805f308e5d63fd2df}
+      \strng{fullhash}{04c9359cd55b534805f308e5d63fd2df}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Affect imagery consciousness volume I the positive affects}
+      \field{title}{Affect imagery consciousness volume I the positive affects}
+      \field{year}{1962}
+    \endentry
+    \entry{tomkins1963}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=04c9359cd55b534805f308e5d63fd2df}{Tomkins}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=04c9359cd55b534805f308e5d63fd2df}{Tomkins}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {New York: Springer Publishing Company}%
+      }
+      \strng{namehash}{04c9359cd55b534805f308e5d63fd2df}
+      \strng{fullhash}{04c9359cd55b534805f308e5d63fd2df}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Affect imagery consciousness volume II the negative affects.}
+      \field{title}{Affect imagery consciousness volume II the negative affects.}
+      \field{year}{1963}
+    \endentry
+    \entry{tomkins1991}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=04c9359cd55b534805f308e5d63fd2df}{Tomkins}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=04c9359cd55b534805f308e5d63fd2df}{Tomkins}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {New York: Springer Publishing Company}%
+      }
+      \strng{namehash}{04c9359cd55b534805f308e5d63fd2df}
+      \strng{fullhash}{04c9359cd55b534805f308e5d63fd2df}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Affect Imagery Consciousness Volume III : the Negative Affects Anger and Fear}}
+      \field{title}{{Affect Imagery Consciousness Volume III : the Negative Affects Anger and Fear}}
+      \field{year}{1991}
+    \endentry
+    \entry{Benarroch17112009}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=faf3f0eb6def8c1392605320304bc90e}{Benarroch}{B\bibinitperiod}{Eduardo\bibnamedelima E.}{E\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=faf3f0eb6def8c1392605320304bc90e}{Benarroch}{B\bibinitperiod}{Eduardo\bibnamedelima E.}{E\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{faf3f0eb6def8c1392605320304bc90e}
+      \strng{fullhash}{faf3f0eb6def8c1392605320304bc90e}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The locus ceruleus norepinephrine system: Functional organization and potential clinical significance}
+      \field{journaltitle}{Neurology}
+      \field{number}{20}
+      \field{title}{The locus ceruleus norepinephrine system: Functional organization and potential clinical significance}
+      \field{volume}{73}
+      \field{year}{2009}
+      \field{pages}{1699\bibrangedash 1704}
+      \verb{doi}
+      \verb 10.1212/WNL.0b013e3181c2937c
+      \endverb
+      \verb{eprint}
+      \verb http://www.neurology.org/content/73/20/1699.full.pdf+html
+      \endverb
+      \verb{url}
+      \verb http://www.neurology.org/content/73/20/1699.short
+      \endverb
+    \endentry
+    \entry{parsingreward}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=3bb1654582bbea1daf5778c9a77cdaa0}{Berridge}{B\bibinitperiod}{Kent\bibnamedelima C.}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=adf76f2459ff58dea58e882984352fda}{Robinson}{R\bibinitperiod}{Terry\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3bb1654582bbea1daf5778c9a77cdaa0}{Berridge}{B\bibinitperiod}{Kent\bibnamedelima C.}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=adf76f2459ff58dea58e882984352fda}{Robinson}{R\bibinitperiod}{Terry\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3c344b0b134ff9097c10f3987d450897}
+      \strng{fullhash}{3c344b0b134ff9097c10f3987d450897}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Parsing Reward.}
+      \field{journaltitle}{Trends in Neurosciences}
+      \field{title}{Parsing Reward.}
+      \field{volume}{26(9)}
+      \field{year}{2003}
+    \endentry
+    \entry{zarrindast}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=196112c2f42adf0af2f98eb5270ee098}{Zarrindast}{Z\bibinitperiod}{M.\bibnamedelimi R.}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=196112c2f42adf0af2f98eb5270ee098}{Zarrindast}{Z\bibinitperiod}{M.\bibnamedelimi R.}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{196112c2f42adf0af2f98eb5270ee098}
+      \strng{fullhash}{196112c2f42adf0af2f98eb5270ee098}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Neurotransmitters and Cognition}
+      \field{journaltitle}{EXS}
+      \field{title}{Neurotransmitters and Cognition}
+      \field{year}{2006}
+      \field{pages}{5\bibrangedash 39}
+    \endentry
+    \entry{talanov2014}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=12328660963bb4c3ea43bf882efa9aae}{Talanov}{T\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a9998b3e1eee56282fcd42b183c95822}{Toschev}{T\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=12328660963bb4c3ea43bf882efa9aae}{Talanov}{T\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a9998b3e1eee56282fcd42b183c95822}{Toschev}{T\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b63ea7571ef28fd5be57e606a640598e}
+      \strng{fullhash}{b63ea7571ef28fd5be57e606a640598e}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Computational emotional thinking and virtual neurotransmitters}
+      \field{journaltitle}{International Journal of Synthetic Emotions (IJSE)}
+      \field{title}{Computational emotional thinking and virtual neurotransmitters}
+      \field{volume}{5(1)}
+      \field{year}{2014}
+    \endentry
+    \entry{noradrenalin3}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=515829eb18d29a15d85304a95392fbe4}{Terbeck}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=362444348ad132893e6b70ef28e9f79b}{Savulescu}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=09948bf34db3e3692d62c1bfe3f95931}{Chesterman}{C\bibinitperiod}{L.P.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=82a379127046e0b09486f403e3af416d}{Cowen}{C\bibinitperiod}{P.J.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Noradrenaline effects on social behaviour, intergroup relations, and moral decisions}
+      \field{issn}{0149-7634}
+      \field{journaltitle}{Neuroscience \& Biobehavioral Reviews}
+      \field{title}{Noradrenaline effects on social behaviour, intergroup relations, and moral decisions}
+      \field{volume}{66}
+      \field{year}{2016}
+      \field{pages}{54\bibrangedash 60}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.neubiorev.2016.03.031
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0149763415301329
+      \endverb
+    \endentry
+    \entry{masuko}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d5dc18d567c583c978bbf4b1eb0b242c}{Masuko}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d5dc18d567c583c978bbf4b1eb0b242c}{Masuko}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d5dc18d567c583c978bbf4b1eb0b242c}
+      \strng{fullhash}{d5dc18d567c583c978bbf4b1eb0b242c}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Noradrenergic Neurons from the Locus Ceruleus in Dissociated Cell Culture: Culture Methods, Morphology, and Electrophysiology}
+      \field{journaltitle}{J. Neurosci}
+      \field{title}{Noradrenergic Neurons from the Locus Ceruleus in Dissociated Cell Culture: Culture Methods, Morphology, and Electrophysiology}
+      \field{volume}{6(11)}
+      \field{year}{1986}
+      \field{pages}{3229\bibrangedash 41}
+    \endentry
+    \entry{rat_data5}{article}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=3d0b57d584667422a3cd9a281a5aad41}{Monji}{M\bibinitperiod}{Akira}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1485e75c4d35ba5aa3cb934dca81780d}{Morimoto}{M\bibinitperiod}{Nobumitsu}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=39539111a1d791c54301fdaa28e86a8c}{Okuyama}{O\bibinitperiod}{Iwao}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=85b9ad966565ccaf559bcd708319abf6}{Umeno}{U\bibinitperiod}{Kazuo}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e73565103c65979791a01a6a2540095c}{Nagatsu}{N\bibinitperiod}{Ikuko}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=6786b864131bdbb0c415c37d59ebae5d}{Ibata}{I\bibinitperiod}{Yasuhiko}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=b863b57d630a57d6791cee3c90499c9e}{Tashiro}{T\bibinitperiod}{Nobutada}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The number of noradrenergic and adrenergic neurons in the brain stem does not change with age in male Sprague-Dawley rats}
+      \field{journaltitle}{Brain Res}
+      \field{title}{The number of noradrenergic and adrenergic neurons in the brain stem does not change with age in male Sprague-Dawley rats}
+      \field{volume}{641(1)}
+      \field{year}{1994}
+      \field{pages}{171\bibrangedash 175}
+    \endentry
+    \entry{Berridge2003}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3770eb12e94adf639f2d7e781c58ef3d}{Craig\bibnamedelimb W.\bibnamedelimi Berridge}{C\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim B\bibinitperiod}{Barry\bibnamedelimb D.\bibnamedelimi Waterhouse}{B\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3770eb12e94adf639f2d7e781c58ef3d}{Craig\bibnamedelimb W.\bibnamedelimi Berridge}{C\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim B\bibinitperiod}{Barry\bibnamedelimb D.\bibnamedelimi Waterhouse}{B\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3770eb12e94adf639f2d7e781c58ef3d}
+      \strng{fullhash}{3770eb12e94adf639f2d7e781c58ef3d}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The locus coeruleus{â}â??``noradrenergic system: modulation of behavioral state and state-dependent cognitive processes}
+      \field{journaltitle}{Brain Research Reviews}
+      \field{month}{01}
+      \field{number}{42}
+      \field{title}{The locus coeruleus{â}â??``noradrenergic system: modulation of behavioral state and state-dependent cognitive processes}
+      \field{year}{2003}
+      \field{pages}{33\bibrangedash 84}
+      \verb{doi}
+      \verb 10.1016/S0165-0173(03)00143-7
+      \endverb
+      \verb{url}
+      \verb http://www.ini.uzh.ch/~pfmjv/Seminar/pdfs/Brain+Res+Brain+Res+Rev_42_33.lcoeruleus-na-review.pdf
+      \endverb
+    \endentry
+    \entry{izhikevich}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1c881c3c272382627a4f89224e74b4d3}{Izhikevich}{I\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1c881c3c272382627a4f89224e74b4d3}{Izhikevich}{I\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Univ Press}%
+      }
+      \strng{namehash}{1c881c3c272382627a4f89224e74b4d3}
+      \strng{fullhash}{1c881c3c272382627a4f89224e74b4d3}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Solving the Distal Reward Problem through Linkage of STDP and Dopamine Signaling}}
+      \field{journaltitle}{Cerebral Cortex}
+      \field{number}{10}
+      \field{title}{{Solving the Distal Reward Problem through Linkage of STDP and Dopamine Signaling}}
+      \field{volume}{17}
+      \field{year}{2007}
+      \field{pages}{2443\bibrangedash 2452}
+    \endentry
+    \entry{tactile}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=6d1fe843bd60c758ac0f426e858e2771}{Chou}{C\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=78092e12a6d912f8c4fff00014a73504}{Bucci}{B\bibinitperiod}{L.\bibnamedelimi D.}{L\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=7c54f439c5beb67f3b962cf627824332}{Krichmar}{K\bibinitperiod}{J.\bibnamedelimi L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=6d1fe843bd60c758ac0f426e858e2771}{Chou}{C\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=78092e12a6d912f8c4fff00014a73504}{Bucci}{B\bibinitperiod}{L.\bibnamedelimi D.}{L\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=7c54f439c5beb67f3b962cf627824332}{Krichmar}{K\bibinitperiod}{J.\bibnamedelimi L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2616ae1b21df2cfe0380e2b3153aa602}
+      \strng{fullhash}{2616ae1b21df2cfe0380e2b3153aa602}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Learning Touch Preferences with a Tactile Robot Using Dopamine Modulated STDP in a Model of Insular Cortex}}
+      \field{journaltitle}{Frontiers in Neurorobotics}
+      \field{month}{07}
+      \field{number}{6}
+      \field{title}{{Learning Touch Preferences with a Tactile Robot Using Dopamine Modulated STDP in a Model of Insular Cortex}}
+      \field{volume}{6}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.3389/fnbot.2012.00006
+      \endverb
+    \endentry
+    \entry{stdp}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4e2f523b3fa981929ad66c37a382231d}{Lisman}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=57405dee6d934a876cf5ada6eaca9b99}{Spruston}{S\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4e2f523b3fa981929ad66c37a382231d}{Lisman}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=57405dee6d934a876cf5ada6eaca9b99}{Spruston}{S\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Research Foundation}%
+      }
+      \strng{namehash}{d31395b2fd1b133d6f573902b5f91b44}
+      \strng{fullhash}{d31395b2fd1b133d6f573902b5f91b44}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Questions about STDP as a General Model of Synaptic Plasticity}}
+      \field{journaltitle}{Frontiers in Synaptic Neuroscience}
+      \field{title}{{Questions about STDP as a General Model of Synaptic Plasticity}}
+      \field{volume}{2}
+      \field{year}{2010}
+    \endentry
+    \entry{nora1}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=bb0e92a73e41a3f19e50ecc5e4b29d63}{Baumann}{B\bibinitperiod}{P.\bibnamedelimi A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=15faf45bf7c9c61c901267f3f495a882}{Koella}{K\bibinitperiod}{W.\bibnamedelimi P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=bb0e92a73e41a3f19e50ecc5e4b29d63}{Baumann}{B\bibinitperiod}{P.\bibnamedelimi A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=15faf45bf7c9c61c901267f3f495a882}{Koella}{K\bibinitperiod}{W.\bibnamedelimi P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a8c198620a2729c075f869e25b99efd0}
+      \strng{fullhash}{a8c198620a2729c075f869e25b99efd0}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{{Feedback Control of Noradrenaline Release as a Function of Noradrenaline Concentration in the Synaptic Cleft in Cortical Slices of the Rat}}
+      \field{journaltitle}{Brain research}
+      \field{month}{05}
+      \field{number}{2}
+      \field{title}{{Feedback Control of Noradrenaline Release as a Function of Noradrenaline Concentration in the Synaptic Cleft in Cortical Slices of the Rat}}
+      \field{volume}{189}
+      \field{year}{1980}
+      \field{pages}{437\bibrangedash 48}
+    \endentry
+    \entry{nora2}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=18fb3ebe15f35b1f344379dc180e81f3}{Ludwig}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5957348b3fe114785a33d9fac57f4074}{Gerlich}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=260ac14a8c46a74660b5a834044a82a0}{Halbrügge}{H\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=85348556a103a3ae970d002d62fb02b5}{Graefe}{G\bibinitperiod}{K.\bibnamedelimi H.}{K\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The Synaptic Noradrenaline Concentration in Humans as Estimated from Simultaneous Measurements of Plasma Noradrenaline and Dihydroxyphenylglycol (DOPEG).}
+      \field{journaltitle}{Journal of Neural Transmission Supplementum}
+      \field{title}{The Synaptic Noradrenaline Concentration in Humans as Estimated from Simultaneous Measurements of Plasma Noradrenaline and Dihydroxyphenylglycol (DOPEG).}
+      \field{volume}{32}
+      \field{year}{1990}
+      \field{pages}{441\bibrangedash 5}
+    \endentry
+    \entry{viljoen}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=92cf8a06e6b113802d3cd67c550adced}{Viljoen\bibnamedelima M.}{V\bibinitperiod\bibinitdelim M\bibinitperiod}{Panzer\bibnamedelima A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=92cf8a06e6b113802d3cd67c550adced}{Viljoen\bibnamedelima M.}{V\bibinitperiod\bibinitdelim M\bibinitperiod}{Panzer\bibnamedelima A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{92cf8a06e6b113802d3cd67c550adced}
+      \strng{fullhash}{92cf8a06e6b113802d3cd67c550adced}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The central noradrenergic system: an overview}
+      \field{journaltitle}{African Journal of Psychiatry}
+      \field{title}{The central noradrenergic system: an overview}
+      \field{volume}{10}
+      \field{year}{2007}
+      \field{pages}{135\bibrangedash 141}
+    \endentry
+    \entry{delaneytransmission}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d260f5e0d11879f9ceea6354e60495fa}{Delaney\bibnamedelima A.J.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{Sah\bibnamedelima P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{Crane\bibnamedelima J.W.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d260f5e0d11879f9ceea6354e60495fa}{Delaney\bibnamedelima A.J.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{Sah\bibnamedelima P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{Crane\bibnamedelima J.W.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}}%
+      }
+      \strng{namehash}{d260f5e0d11879f9ceea6354e60495fa}
+      \strng{fullhash}{d260f5e0d11879f9ceea6354e60495fa}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Noradrenaline Modulates Transmission at a Central Synapse by a Presynaptic Mechanism}
+      \field{journaltitle}{Neuron}
+      \field{title}{Noradrenaline Modulates Transmission at a Central Synapse by a Presynaptic Mechanism}
+      \field{volume}{56}
+      \field{year}{2007}
+      \field{pages}{880\bibrangedash 892}
+    \endentry
+    \entry{macaca}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=dd5ca5c2c8dbdbcfeb4564c7eb6e641a}{S.J.\bibnamedelimi Grant}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{D.E.\bibnamedelimi Redmond\bibnamedelima Jr.}{D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=dd5ca5c2c8dbdbcfeb4564c7eb6e641a}{S.J.\bibnamedelimi Grant}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{D.E.\bibnamedelimi Redmond\bibnamedelima Jr.}{D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dd5ca5c2c8dbdbcfeb4564c7eb6e641a}
+      \strng{fullhash}{dd5ca5c2c8dbdbcfeb4564c7eb6e641a}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Neuronal activity of the locus ceruleus in awake Macaca arctoides}
+      \field{journaltitle}{Exp Neurol}
+      \field{title}{Neuronal activity of the locus ceruleus in awake Macaca arctoides}
+      \field{volume}{84}
+      \field{year}{1984}
+      \field{pages}{701\bibrangedash 708}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
