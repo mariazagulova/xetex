@@ -25,7 +25,7 @@
 
 % Margins.
 \RequirePackage{geometry}
-\geometry{left=3cm,right=1cm,top=2cm,bottom=2cm,includeheadfoot}
+\geometry{left=3cm,right=1.5cm,top=2cm,bottom=2cm,includeheadfoot}
 
 % Sections.
 \RequirePackage[explicit]{titlesec}
@@ -76,8 +76,9 @@
 % Page numbering.
 \RequirePackage{fancyhdr}
 \setlength{\headheight}{17pt}
-\fancypagestyle{plain}{\fancyhf{}\chead{\thepage}\renewcommand{\headrulewidth}{0pt}\renewcommand{\footrulewidth}{0pt}}
+\fancypagestyle{plain}{\fancyhf{}\cfoot{\thepage}\renewcommand{\headrulewidth}{0pt}\renewcommand{\footrulewidth}{0pt}}
 \pagestyle{plain}
+
 
 % Object numbering and captions.
 \RequirePackage{chngcntr}

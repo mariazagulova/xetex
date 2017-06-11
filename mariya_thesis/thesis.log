@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2017.5.17)  7 JUN 2017 21:38
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2017.5.17)  11 JUN 2017 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1367,11 +1367,8 @@ File: russian.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
 ))
 (./thesis.aux (./chapters/introduction.aux) (./chapters/literature_review.aux)
 (./chapters/theoretical_development.aux) (./chapters/specification.aux)
-(./chapters/implementation.aux) (./chapters/results.aux
-
-LaTeX Warning: Label `fig:spikes_motor' multiply defined.
-
-) (./chapters/conclusion.aux))
+(./chapters/implementation.aux) (./chapters/results.aux)
+(./chapters/conclusion.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -1470,11 +1467,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
 * v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69687pt
+* \textwidth=469.47049pt
 * \textheight=662.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
@@ -1596,324 +1593,261 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 
 (./chapters/introduction.tex
-Overfull \hbox (3.19362pt too wide) in paragraph at lines 12--13
-\EU1/TimesNewRoman(0)/m/n/14.4 туальных потребностей.[[]8[]] Эмоции контролирую
-т внутреннее психологическое
- []
-
-
-Overfull \hbox (13.04456pt too wide) in paragraph at lines 12--13
-\EU1/TimesNewRoman(0)/m/n/14.4 эмоций это необходимый шаг для понимания человеч
-еского сознания. Во-вторых,
- []
-
-
-Overfull \hbox (5.21759pt too wide) in paragraph at lines 15--16
-\EU1/TimesNewRoman(0)/m/n/14.4 Высшей школы ИТИС, где разрабатывается когнитивн
-ая архитектура NeuCogAr
+Overfull \hbox (1.9368pt too wide) in paragraph at lines 6--7
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Идея построения машины, обладающей интеллектом
+, способной искать
  []
 
 [3
 
 
 
-]
-Overfull \hbox (0.30573pt too wide) in paragraph at lines 22--23
-[]\EU1/TimesNewRoman(0)/m/n/14.4 Реализовать систему распространения нейромодул
-ятора норадреналин на
- []
-
-) [4] [5]
+]) [4] [5]
 \openout2 = `chapters/literature_review.aux'.
 
  (./chapters/literature_review.tex
 Глава 1.
+
+Overfull \hbox (0.43011pt too wide) in paragraph at lines 9--10
+\EU1/TimesNewRoman(0)/m/n/14.4 инспирированную и опирающуюся на психологию моде
+ль представления лю-
+ []
+
 [6
 
 
 
-]) [7]
+]) [7] [8]
 \openout2 = `chapters/theoretical_development.aux'.
 
  (./chapters/theoretical_development.tex
 Глава 2.
 File: figures/cube_0.png Graphic file (type QTm)
-<use  "figures/cube_0.png" > [8
-
-
-
-]
-Overfull \hbox (0.8716pt too wide) in paragraph at lines 21--22
-[]\EU1/TimesNewRoman(0)/m/n/14.4 Нейронная активность может модифицироваться и 
-перенастраиваться, ко-
+<use  "figures/cube_0.png" >
+Overfull \hbox (7.19894pt too wide) in paragraph at lines 18--19
+\EU1/TimesNewRoman(0)/m/n/14.4 между нейронами. Системы названных моноаминовых 
+нейромодуляторов эво-
  []
 
-[9]
-Overfull \hbox (4.20505pt too wide) in paragraph at lines 27--28
-\EU1/TimesNewRoman(0)/m/n/14.4 лин, или норэпинефрин. Уровень его концентрации 
-повышается в ответ на стрес-
- []
+[9
 
-[10]
-Overfull \hbox (11.35646pt too wide) in paragraph at lines 36--38
-[]\EU1/TimesNewRoman(0)/m/n/14.4 Отображение клеточных реакций на вычислительны
-й процесс должно быть
+
+
+] [10] [11]
+Overfull \hbox (4.70494pt too wide) in paragraph at lines 38--39
+[]\EU1/TimesNewRoman(0)/m/n/14.4 подвержено влиянию дофами-
  []
 
 
-Overfull \hbox (2.18571pt too wide) in paragraph at lines 38--39
-[]\EU1/TimesNewRoman(0)/m/n/14.4 подвержено влиянию дофамина
- []
-
-
-Overfull \hbox (2.91446pt too wide) in paragraph at lines 39--40
-[]\EU1/TimesNewRoman(0)/m/n/14.4 регулируется норадренали-
- []
-
-
-Overfull \hbox (1.46712pt too wide) in paragraph at lines 39--40
-\EU1/TimesNewRoman(0)/m/n/14.4 ном. Чем выше уровень норадреналина, тем больше 
-вычислительной мощ-
- []
-
-
-Overfull \hbox (5.25093pt too wide) in paragraph at lines 41--42
-\EU1/TimesNewRoman(0)/m/n/14.4 концентрация этого нейромодулятора увеличивает к
-оличество связей меж-
+Overfull \hbox (2.24866pt too wide) in paragraph at lines 39--40
+[]\EU1/TimesNewRoman(0)/m/n/14.4 регулируется норадрена-
  []
 
 File: figures/cube_1.png Graphic file (type QTm)
-<use  "figures/cube_1.png" >) [11] [12]
+<use  "figures/cube_1.png" >) [12] [13]
 \openout2 = `chapters/specification.aux'.
 
  (./chapters/specification.tex
 Глава 3.
-
-Overfull \hbox (0.79784pt too wide) in paragraph at lines 3--4
-[]\EU1/TimesNewRoman(0)/m/n/14.4 Норадреналиновая система являлась последним не
-достающим элементом
- []
-
-
-Overfull \hbox (2.5493pt too wide) in paragraph at lines 11--12
-\EU1/TimesNewRoman(0)/m/n/14.4 лись наградой. Исследуя механизм вырабатываемого
- рефлекса, неясно, как мозг
- []
-
-[13
+[14
 
 
 
 ]
-Overfull \hbox (5.72292pt too wide) in paragraph at lines 14--15
-[]\EU1/TimesNewRoman(0)/m/n/14.4 Е. Ижикевич вводит понятие «сигнализирующей от
-метки» (eligibility trace)
- []
-
 File: figures/izhikevich.png Graphic file (type QTm)
-<use  "figures/izhikevich.png" > [14] [15]
-Overfull \hbox (1.41722pt too wide) in paragraph at lines 72--73
-\EU1/TimesNewRoman(0)/m/n/14.4 пропорционально относительной концентрации норад
-реналина $[]\OML/cmm/m/it/14.4 n[]$ \EU1/TimesNewRoman(0)/m/n/14.4 по сравнению
-
- []
-
+ <use  "figures/izhikevich.png" > [15] [16]
 File: figures/BIG_matlab_NA_with_NOV.png Graphic file (type QTm)
-<use  "figures/BIG_matlab_NA_with_NOV.png" > [16]
+
+<use  "figures/BIG_matlab_NA_with_NOV.png" > [17] [18]
 File: figures/spikes_250.png Graphic file (type QTm)
 
 <use  "figures/spikes_250.png" >
 File: figures/nora_dynamic_250.png Graphic file (type QTm)
  <use  "figures/nora_dynamic_250.png" >
-[17] [18]
 File: figures/w_dynamic_250_with_nora.png Graphic file (type QTm)
- <use  "figures/w_dynamic_250_with_nora.png" >) [19]
+
+<use  "figures/w_dynamic_250_with_nora.png" >) [19] [20]
 \openout2 = `chapters/implementation.aux'.
 
 
 (./chapters/implementation.tex
 Глава 4.
-File: figures/sedlenko.png Graphic file (type QTm)
-<use  "figures/sedlenko.png" >
-Overfull \hbox (20.39157pt too wide) in paragraph at lines 13--15
-\EU1/TimesNewRoman(0)/m/n/14.4 ма в общем доступе по ссылке https://github.com/
-research-team/NEUCOGAR/NEST).
+
+Overfull \hbox (1.13509pt too wide) in paragraph at lines 3--4
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Схема распространения норадреналина по мозгу б
+ыла схематично изоб-
  []
 
+File: figures/sedlenko.png Graphic file (type QTm)
+<use  "figures/sedlenko.png" >
 File: figures/dopa.png Graphic file (type QTm)
-<use  "figures/dopa.png" > [20
+ <use  "figures/dopa.png" > [21
 
 
 
-] [21] [22]
+] [22] [23]
 File: figures/sero600voltage.png Graphic file (type QTm)
- <use  "figures/sero600voltage.png" >
-File: figures/sero600onNA.png Graphic file (type QTm)
 
-<use  "figures/sero600onNA.png" >
+<use  "figures/sero600voltage.png" >
+File: figures/sero600onNA.png Graphic file (type QTm)
+ <use  "figures/sero600onNA.png" >
 File: figures/sero600onsynapse.png Graphic file (type QTm)
- <use  "figures/sero600onsynapse.png" >
-[23] [24]
+
+<use  "figures/sero600onsynapse.png" > [24] [25]
 File: figures/bad_amygdala.png Graphic file (type QTm)
- <use  "figures/bad_amygdala.png" >) [25] [26]
+
+<use  "figures/bad_amygdala.png" >) [26]
 \openout2 = `chapters/results.aux'.
 
  (./chapters/results.tex
 Глава 5.
-
-Overfull \hbox (27.03783pt too wide) in paragraph at lines 18--19
-\EU1/TimesNewRoman(0)/m/n/14.4 шва добавляются генераторы на ядрах солитарного 
-тракта, ядрам paragigantocellular,
- []
-
 [27
 
 
 
 ]
+Overfull \hbox (1.8266pt too wide) in paragraph at lines 31--32
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Нейромодулирующие центры (ядра шва, голубовато
+е пятно, чёрная суб-
+ []
+
+
+Overfull \hbox (10.65898pt too wide) in paragraph at lines 32--33
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Интерфейсы нейромодуляторов (стриатум, вентрал
+ьная область покрыш-
+ []
+
+
+Overfull \hbox (5.76758pt too wide) in paragraph at lines 33--34
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Главные области, испытывающие проекции всех не
+йромодуляторов (мо-
+ []
+
 File: figures/spikes_lc[d1].png Graphic file (type QTm)
- <use  "figures/spikes_lc[d1].png" >
+<use  "figures/spikes_lc[d1].png" >
 File: figures/volt_lc[d1].png Graphic file (type QTm)
  <use  "figures/volt_lc[d1].png" >
 File: figures/spikes_nts[a1].png Graphic file (type QTm)
 
-<use  "figures/spikes_nts[a1].png" > [28] [29] [30]
+<use  "figures/spikes_nts[a1].png" > [28] [29]
 File: figures/spikes_rn[dr].png Graphic file (type QTm)
 
 <use  "figures/spikes_rn[dr].png" >
 File: figures/spikes_snc[da].png Graphic file (type QTm)
  <use  "figures/spikes_snc[da].png" >
-[31] [32]
+[30] [31]
 File: figures/spikes_vta[da0].png Graphic file (type QTm)
  <use  "figures/spikes_vta[da0].png" >
-File: figures/spikes_striatum[tan].png Graphic file (type QTm)
+Overfull \hbox (0.57503pt too wide) in paragraph at lines 84--85
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Вентральная область покрышки является интерфей
+сом взаимодействия
+ []
 
+File: figures/spikes_striatum[tan].png Graphic file (type QTm)
 <use  "figures/spikes_striatum[tan].png" >
 File: figures/spikes_striatum[d1].png Graphic file (type QTm)
 
-<use  "figures/spikes_striatum[d1].png" >
-Overfull \hbox (13.79222pt too wide) in paragraph at lines 101--102
-\EU1/TimesNewRoman(0)/m/n/14.4 при высоких уровнях концентрации норадреналина: 
-200 мс (горе), 600 мс (ярость),
- []
-
-[33] [34] [35]
-File: figures/spikes_thalamus.png Graphic file (type QTm)
- <use  "figures/spikes_thalamus.png" > [36]
-
-LaTeX Warning: Reference `fig:spikes_pfc' on page 37 undefined on input line 11
-6.
-
+<use  "figures/spikes_striatum[d1].png" > [32] [33] [34]
 File: figures/spikes_motor[glu1].png Graphic file (type QTm)
+
 <use  "figures/spikes_motor[glu1].png" >
 File: figures/spikes_pfc[5ht].png Graphic file (type QTm)
  <use  "figures/spikes_pfc[5ht].png" >
 File: figures/spikes_pfc.png Graphic file (type QTm)
 
-<use  "figures/spikes_pfc.png" >) [37] [38] [39]
+<use  "figures/spikes_pfc.png" >) [35] [36]
 \openout2 = `chapters/conclusion.aux'.
 
  (./chapters/conclusion.tex
-Overfull \hbox (8.89906pt too wide) in paragraph at lines 16--17
-[]\EU1/TimesNewRoman(0)/m/n/14.4 Результаты проведённых вычислительных эксперим
-ентов показывают, что
+Overfull \hbox (1.26892pt too wide) in paragraph at lines 8--9
+[]\EU1/TimesNewRoman(0)/m/n/14.4 Реализована система распространения нейромодул
+ятора норадреналин; 
  []
 
 
-Overfull \hbox (7.69351pt too wide) in paragraph at lines 16--17
-\EU1/TimesNewRoman(0)/m/n/14.4 реалистичная симуляция функций биологических ней
-ромодуляторов осуществи-
+Overfull \hbox (0.38554pt too wide) in paragraph at lines 16--17
+\EU1/TimesNewRoman(0)/m/n/14.4 что реалистичная симуляция функций биологических
+ нейромодуляторов осу-
  []
 
 
-Overfull \hbox (12.36572pt too wide) in paragraph at lines 22--23
+Overfull \hbox (26.5921pt too wide) in paragraph at lines 22--23
 []\EU1/TimesNewRoman(0)/m/n/14.4 «The Implementation of Noradrenaline in the Ne
 uCogAr Cognitive Architecture»
  []
 
-[40
+[37
 
 
 
 
 ]
-Overfull \hbox (3.04698pt too wide) in paragraph at lines 23--24
+Overfull \hbox (17.27336pt too wide) in paragraph at lines 23--24
 []\EU1/TimesNewRoman(0)/m/n/14.4 «NeuCogAr: how to make a machine feel emotions
 . Neuromodulating cognitive
  []
 
-)
-Overfull \hbox (0.1152pt too wide) in paragraph at lines 28--42
-\EU1/TimesNewRoman(0)/m/n/14.4 печение, в область робототехники, существуют пер
-спективы исследований, для
+
+Overfull \hbox (1.63914pt too wide) in paragraph at lines 24--25
+[]\EU1/TimesNewRoman(0)/m/n/14.4 «Extending biomimetic cognitive architecture N
+euCogAr with noradrenaline
  []
 
-[41]
-Overfull \hbox (24.48174pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 Minsky M. \EU1/TimesNewRoman(0)/m/n/14.4 The 
-Emotion Machine: Commonsense Thinking, Artificial Intelligence, 
+
+Overfull \hbox (12.04897pt too wide) in paragraph at lines 24--25
+\EU1/TimesNewRoman(0)/m/n/14.4 стефано, Ф. Гафаровым и А. Леухиным для журнала 
+«Journal of Healthcare
  []
 
+) [38]
 Package microtype Info: Loading generic settings for font family
 (microtype)             `CourierNew' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (9.47221pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/n/14.4 The impact of emotion on perception, attention
-, memory, and decision-making / 
+Overfull \hbox (0.64662pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 making / T. Brosch [и др.] [] Swiss Medical Week
+ly. — 2013. — Т. 143. — 
  []
 
 
-Overfull \hbox (3.17932pt too wide) in paragraph at lines 47--47
-\EU1/TimesNewRoman(0)/m/n/14.4 T. Brosch [и др.] [] Swiss Medical Weekly. — 201
-3. — Т. 143. — w13786. — 
- []
-
-
-Overfull \hbox (22.72627pt too wide) in paragraph at lines 47--47
+Overfull \hbox (36.95265pt too wide) in paragraph at lines 47--47
 []\EU1/TimesNewRoman(0)/m/it/14.4 Ziemke T.\EU1/TimesNewRoman(0)/m/n/14.4 , \EU
 1/TimesNewRoman(0)/m/it/14.4 Lowe R. \EU1/TimesNewRoman(0)/m/n/14.4 On the Role
  of Emotion in Embodied Cognitive Architectures: 
  []
 
 
-Overfull \hbox (34.08502pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/n/14.4 Descartes’ Error: Emotion, Reason, and the Hum
-an Brain / под ред. A. Damasio. — 
+Overfull \hbox (0.89272pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 From Organisms to Robots [] Cogn Comput. — 2009.
+ — Т. 1018. — С. 1— 
  []
 
-
-Overfull \hbox (36.32457pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 Phelps E. A. \EU1/TimesNewRoman(0)/m/n/14.4 E
-motion and cognition: insights from studies of the human amygdala. [] 
- []
-
-[42
+[39
 
 
 ]
-Overfull \hbox (45.32094pt too wide) in paragraph at lines 47--47
+Overfull \hbox (59.54732pt too wide) in paragraph at lines 47--47
 []\EU1/TimesNewRoman(0)/m/it/14.4 Guizzo E. \EU1/TimesNewRoman(0)/m/n/14.4 Meet
  Pepper, Aldebaran’s new personal robot with an “EmotionEngine”. — 
  []
 
 
-Package biblatex Warning: No driver for entry type 'inprocceedings'.
-(biblatex)                Using fallback driver on input line 47.
+Overfull \hbox (7.65674pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Cambria E.\EU1/TimesNewRoman(0)/m/n/14.4 , \E
+U1/TimesNewRoman(0)/m/it/14.4 Livingstone A.\EU1/TimesNewRoman(0)/m/n/14.4 , \E
+U1/TimesNewRoman(0)/m/it/14.4 Hussain A. \EU1/TimesNewRoman(0)/m/n/14.4 Cogniti
+ve Behavioural Systems []. — 
+ []
 
 
 Package biblatex Warning: No driver for entry type 'inprocceedings'.
 (biblatex)                Using fallback driver on input line 47.
 
 
-Package biblatex Warning: No driver for entry type 'inprocceedings'.
-(biblatex)                Using fallback driver on input line 47.
-
-
-Overfull \hbox (42.53659pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 A. Chella I. I. \EU1/TimesNewRoman(0)/m/n/14.
-4 Emotions in a Cognitive Architecture for Human Robot Interactions. — 
+Overfull \hbox (8.98006pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Licurgo B. de Almeida Bruno C. da Silva A. L.
+ C. B. \EU1/TimesNewRoman(0)/m/n/14.4 Towards a physiological 
  []
 
 
@@ -1929,96 +1863,79 @@ Package biblatex Warning: No driver for entry type 'inprocceedings'.
 (biblatex)                Using fallback driver on input line 47.
 
 
-Overfull \hbox (11.86768pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 Martinovska C. \EU1/TimesNewRoman(0)/m/n/14.4
- Agent-Based Emotional Architecture for Directing the Adaptive 
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+
+Overfull \hbox (8.50893pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/n/14.4 BDIE: a BDI like Architecture with Emotional C
+apabilities / D. J. Hernandez 
  []
 
 
-Overfull \hbox (19.51385pt too wide) in paragraph at lines 47--47
-\EU1/TimesNewRoman(0)/m/n/14.4 Approach [] Computational and Ambient Intelligen
-ce. Lecture Notes in Computer 
+Package biblatex Warning: No driver for entry type 'inprocceedings'.
+(biblatex)                Using fallback driver on input line 47.
+
+[40]
+Overfull \hbox (8.13626pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Lövheim H. \EU1/TimesNewRoman(0)/m/n/14.4 A N
+ew Three-Dimensional Model for Emotions and Monoamine 
  []
 
 
-Overfull \hbox (4.36768pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 R. C. Arkin P. Ulam A. R. W. \EU1/TimesNewRom
-an(0)/m/n/14.4 Moral Decision Making in Autonomous Systems: 
- []
-
-[43]
-Overfull \hbox (15.95506pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 P. Lin G. Bekey K. A. \EU1/TimesNewRoman(0)/m
-/n/14.4 Autonomous Military Robotics: Risk, Ethics, and Design [] 
- []
-
-
-Overfull \hbox (34.80249pt too wide) in paragraph at lines 47--47
+Overfull \hbox (49.02887pt too wide) in paragraph at lines 47--47
 \EU1/TimesNewRoman(0)/m/n/14.4 2. — С. 341—8. — ISSN 1532-2777. — URL: []$[][][
 ][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [][] 
  []
 
 
-Overfull \hbox (32.67314pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 Benarroch E. E. \EU1/TimesNewRoman(0)/m/n/14.
-4 The locus ceruleus norepinephrine system: Functional organization 
+Overfull \hbox (4.50815pt too wide) in paragraph at lines 47--47
+[]\EU1/TimesNewRoman(0)/m/it/14.4 Tomkins S. \EU1/TimesNewRoman(0)/m/n/14.4 Aff
+ect Imagery Consciousness Volume III : the Negative Affects 
  []
 
 
-Overfull \hbox (1.77647pt too wide) in paragraph at lines 47--47
+Overfull \hbox (49.40689pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 73, № 20. — С. 1699—1704. — DOI: []$[][][] [] []
+[][][] [] [][][] [] [][][][][][][][][][][][][][][][][]$[]. — 
+ []
+
+
+Overfull \hbox (16.00285pt too wide) in paragraph at lines 47--47
 []\EU1/TimesNewRoman(0)/m/it/14.4 Berridge K. C.\EU1/TimesNewRoman(0)/m/n/14.4 
 , \EU1/TimesNewRoman(0)/m/it/14.4 Robinson T. E. \EU1/TimesNewRoman(0)/m/n/14.4
  Parsing Reward. [] Trends in Neurosciences. — 
  []
 
-
-Overfull \hbox (67.90894pt too wide) in paragraph at lines 47--47
-[]\EU1/TimesNewRoman(0)/m/it/14.4 Talanov M.\EU1/TimesNewRoman(0)/m/n/14.4 , \E
-U1/TimesNewRoman(0)/m/it/14.4 Toschev A. \EU1/TimesNewRoman(0)/m/n/14.4 Computa
-tional emotional thinking and virtual neurotransmitters [] 
- []
-
-[44]
-Overfull \hbox (39.78737pt too wide) in paragraph at lines 47--47
-\EU1/TimesNewRoman(0)/m/n/14.4 Cell Culture: Culture Methods, Morphology, and E
-lectrophysiology [] J. Neurosci. — 
- []
-
-
-Overfull \hbox (11.88055pt too wide) in paragraph at lines 47--47
-\EU1/TimesNewRoman(0)/m/n/14.4 Tactile Robot Using Dopamine Modulated STDP in a
- Model of Insular Cortex [] 
- []
-
-
-Overfull \hbox (0.76538pt too wide) in paragraph at lines 47--47
+[41]
+Overfull \hbox (14.99176pt too wide) in paragraph at lines 47--47
 []\EU1/TimesNewRoman(0)/m/it/14.4 Lisman J.\EU1/TimesNewRoman(0)/m/n/14.4 , \EU
 1/TimesNewRoman(0)/m/it/14.4 Spruston N. \EU1/TimesNewRoman(0)/m/n/14.4 Questio
 ns about STDP as a General Model of Synaptic 
  []
 
 
-Overfull \hbox (18.41948pt too wide) in paragraph at lines 47--47
-\EU1/TimesNewRoman(0)/m/n/14.4 Slices of the Rat [] Brain research. — 1980. — М
-ай. — Т. 189, № 2. — С. 437— 
+Overfull \hbox (13.31123pt too wide) in paragraph at lines 47--47
+\EU1/TimesNewRoman(0)/m/n/14.4 as a Function of Noradrenaline Concentration in 
+the Synaptic Cleft in Cortical 
  []
 
 
-Overfull \hbox (26.69655pt too wide) in paragraph at lines 47--47
+Overfull \hbox (40.92293pt too wide) in paragraph at lines 47--47
 \EU1/TimesNewRoman(0)/m/n/14.4 Simultaneous Measurements of Plasma Noradrenalin
 e and Dihydroxyphenylglycol 
  []
 
 
-Overfull \hbox (27.94264pt too wide) in paragraph at lines 47--47
+Overfull \hbox (42.16902pt too wide) in paragraph at lines 47--47
 \EU1/TimesNewRoman(0)/m/n/14.4 (DOPEG). / J. Ludwig [и др.] [] Journal of Neura
 l Transmission Supplementum. — 
  []
 
-[45]
+[42]
 No complaints by nag.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
-[46]
+[43]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
  (./thesis.aux (./chapters/introduction.aux)
 (./chapters/literature_review.aux) (./chapters/theoretical_development.aux)
@@ -2026,24 +1943,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
 (./chapters/results.aux) (./chapters/conclusion.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 61.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 61.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34532 strings out of 493727
- 624850 string characters out of 6147890
- 1192890 words of memory out of 5000000
- 37343 multiletter control sequences out of 15000+600000
+ 34529 strings out of 493727
+ 624783 string characters out of 6147890
+ 1192938 words of memory out of 5000000
+ 37341 multiletter control sequences out of 15000+600000
  6823 words of font info for 54 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 64i,11n,94p,10450b,3060s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,10n,94p,10450b,3060s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (46 pages).
+Output written on thesis.pdf (43 pages).
